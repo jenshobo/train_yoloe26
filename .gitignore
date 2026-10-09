@@ -1,0 +1,7 @@
+*.pt
+*.ts
+*.log
+
+*/dataset
+*/runs
+*/weights
